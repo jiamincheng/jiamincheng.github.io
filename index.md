@@ -14,7 +14,7 @@ My research interests include image enhancement, image generation, and speech sy
 
 
 
-{% include_relative _includes/talks.md %}
+{% include_relative _includes/education.md %}
 
 {% include_relative _includes/publications.md %}
 
