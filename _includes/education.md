@@ -7,7 +7,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Master in Applied Mathematics and Data Science</autocolor></li>
-  <li><autocolor>Mentor: Prof. Zhanchuan Cai</autocolor></a></li>
+  <li><autocolor>Mentor: Prof. Zhanchuan Cai</autocolor></li>
   <li><autocolor>Sep. 2022 - Present Macau S.A.R., China </autocolor></li>
 </ul>
 
