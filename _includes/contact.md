@@ -6,4 +6,4 @@
 
 <strong>Email:</strong> jiamincheng.k@gmail.com
 <br />
-<strong>Phone:</strong> +853 6859 4039</p>
+<strong>Phone:</strong> +853 6859 4039
