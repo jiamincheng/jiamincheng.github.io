@@ -1,17 +1,12 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Publications</h2>
+<h2 style="margin: 60px 0px -15px;">Preprint</h2>
 
 
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-
-
-
-<br>
-
 {% endfor %}
 
 <li>
