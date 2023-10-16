@@ -8,9 +8,11 @@ layout: homepage
 
 I am currently a postgraduate student at the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/en), where I am fortunate to be advised by [Professor Zhanchuan Cai](https://www.must.edu.mo/en/scse/staff/cai-zhan-chuan). Before this, I received my Bachelor degree in Engineering from [Shandong University](https://www.en.sdu.edu.cn/) in 2019. Subsequently, I obtained another Bachelor degree in Science from [China Agricultural University](https://www.cau.edu.cn/) in 2022.
 
+My research interests include image enhancement, image generation, and speech synthesis.
+
 I am expected to graduate in June 2024 and am currently seeking a Ph.D. position. Please feel free to contact me if you are interested.
 
-My research interests include image enhancement, image generation, and speech synthesis. 
+
 
 
 
