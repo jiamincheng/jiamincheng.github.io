@@ -32,7 +32,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">SVC Practice: Singing Voice Conversion Model</div>
-      <div class="author"><strong><strong>Jiamin Cheng</strong>, Team leader</div>
+      <div class="author"><strong>Jiamin Cheng</strong>, Team leader</div>
       <div class="periodical">Implementation of Project "SoftVC VITS Singing Voice Conversion"</div>
     <div class="links">
     </div>
