@@ -60,8 +60,8 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Clinical intelligent diagnosis and treatment modeling of hemorrhagic stroke</div>
-      <div class="author"><strong>Jiamin Cheng, team leader</strong>, Jingyuan Huang, Xueyuan Wang</div>
-      <div class="periodical">Studied the occurrence and evolution of hematoma and edema in patients with hemorrhagic stroke, and provided suggestions for clinical decision-making based on this</div>
+      <div class="author"><strong>Jiamin Cheng</strong>, Team leader, Jingyuan Huang, Xueyuan Wang</div>
+      <div class="periodical">Studied the occurrence and evolution of hematoma and edema in patients with hemorrhagic stroke, and provided suggestions for clinical decision-making</div>
     <div class="links">
     </div>
   </div>
@@ -80,7 +80,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Peach Disease Detection Based on Deep Learning</div>
       <div class="author"><strong>Jiamin Cheng</strong>, Supervisor: Prof. Lu Jia</div>
-      <div class="periodical">Used transfer learning techniques to fine-tune a deep learning model with pre-trained weights trained on the ImageNet dataset to train a peach pest and disease identification model</div>
+      <div class="periodical">Used transfer learning to train a peach disease detection model using a pre-trained model trained on the ImageNet dataset</div>
     <div class="links">
       <a href="files/proj/peach2022/peach2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
