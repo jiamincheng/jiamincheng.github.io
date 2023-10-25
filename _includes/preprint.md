@@ -20,8 +20,6 @@
       <div class="author"><strong>Jiamin Cheng</strong>, Supervisor: Prof. Zhanchuan Cai</div>
       <div class="periodical">Designed a retinex-based method for single underwater image enhancement to solve the quality degradation problems of underwater images, such as color casts, blurring details, and low contrast</div>
     <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a -->
       <a href="https://youtu.be/D2sRUVyj0YU" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
