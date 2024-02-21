@@ -10,7 +10,7 @@ I am currently a postgraduate student at the School of Computer Science and Engi
 
 My research interests include image enhancement, computer vision, and speech synthesis.
 
-I am expected to graduate in August 2024 and am currently seeking a Ph.D. position. Please feel free to contact me if you are interested.
+I am expected to graduate in July 2024 and am currently seeking a Ph.D. position. Please feel free to contact me if you are interested.
 
 
 
