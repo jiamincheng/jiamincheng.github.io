@@ -24,21 +24,7 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="files/proj/svc/fig.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Projects</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">SVC Practice: Singing Voice Conversion Model</div>
-      <div class="author"><strong>Jiamin Cheng</strong>, Team leader</div>
-      <div class="periodical">Used a SVC model to convert a song sang by a source singer to the voice of a target singer</div>
-    <div class="links">
-    </div>
-  </div>
-</div>
-</li>
+
 
 
 
