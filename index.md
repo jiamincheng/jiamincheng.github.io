@@ -6,9 +6,9 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-I am currently a postgraduate student at the School of Computer Science and Engineering at [Macau University of Science and Technology](https://www.must.edu.mo/en), where I am fortunate to be advised by [Professor Zhanchuan Cai](https://www.must.edu.mo/en/scse/staff/cai-zhan-chuan).
+I am currently a first-year Ph.D. student in Computer Science at [Binghamton University](https://www.binghamton.edu/), and I am fortunate to be supervised by Professor [Monika Roznere](http://monikaroznere.com/index.html).
 
-My research interests include image enhancement and computer vision.
+My research interests include marine robotics and 3D reconstruction.
 
 
 
