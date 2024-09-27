@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Education</h2>
 
-<h4 style="margin:0 10px 0;"><a href="https://www.binghamton.edu/">Binghamton University (SUNY)</a>
+<h4 style="margin:0 10px 0;"><a href="https://www.binghamton.edu/">Binghamton University</a>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>PhD in Computer Science</autocolor></li>
