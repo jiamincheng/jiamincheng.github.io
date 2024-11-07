@@ -15,7 +15,3 @@ My research interests include marine robotics and 3D reconstruction.
 
 
 
-{% include_relative _includes/education.md %}
-{% include_relative _includes/preprint.md %}
-{% include_relative _includes/projects.md %}
-{% include_relative _includes/contact.md %}
