@@ -32,24 +32,6 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="files/proj/model2023/fig.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Projects</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Clinical intelligent diagnosis and treatment modeling of hemorrhagic stroke</div>
-      <div class="author"><strong>Jiamin Cheng</strong>, Team leader</div>
-      <div class="periodical">Studied the occurrence and evolution of hematoma and edema in patients with hemorrhagic stroke, and provided suggestions for clinical decision-making</div>
-    <div class="links">
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="files/proj/peach2022/demo.gif" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Projects</abbr>
   </div>
