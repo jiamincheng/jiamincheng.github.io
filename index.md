@@ -9,3 +9,6 @@ layout: homepage
 I am currently a first-year PhD student in Computer Science at [Binghamton University](https://www.binghamton.edu/), and I am fortunate to be supervised by Professor [Monika Roznere](http://monikaroznere.com/index.html).
 
 My research interests focus on underwater robotic perception.
+
+{% include_relative _includes/education.md %}
+{% include_relative _includes/contact.md %}
