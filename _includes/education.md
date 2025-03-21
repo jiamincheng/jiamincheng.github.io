@@ -18,7 +18,7 @@
   <li><autocolor>Sep. 2022 - Aug. 2024</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;"><a href="https://www.cau.edu.cn/">China Agricultural University</a>
+<h4 style="margin:0 10px 0;">China Agricultural University</a>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Major: Data Science and Big Data Technology</autocolor></li>
@@ -26,7 +26,7 @@
   <li><autocolor>Sep. 2020 - Jun. 2022</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;"><a href="https://www.en.sdu.edu.cn/">Shandong University</a>
+<h4 style="margin:0 10px 0;">Shandong University</a>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Major: Marine Resources Development Technology</autocolor></li>

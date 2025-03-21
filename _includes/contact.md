@@ -4,6 +4,4 @@
 
 
 
-<strong>Email:</strong> jiamincheng.k@gmail.com
-<br />
-<strong>Phone:</strong> +853 6859 4039
+<strong>Email:</strong> jcheng18@binghamton.edu
