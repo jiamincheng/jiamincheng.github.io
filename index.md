@@ -11,4 +11,3 @@ I am currently a first-year PhD student in Computer Science at [Binghamton Unive
 My research interests focus on underwater robotic perception.
 
 {% include_relative _includes/education.md %}
-{% include_relative _includes/contact.md %}
